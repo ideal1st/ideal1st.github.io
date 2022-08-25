@@ -22,6 +22,6 @@ defaults:
     layout: page
 description: by Jumaidil Awal
 permalink: pretty
-theme: cayman
 plugins:
 - jekyll-remote-theme
+remote_theme: pages-themes/cayman@v0.2.0
