@@ -1,7 +1,8 @@
 ---
 title: Home
-date: 2022-08-25 01:25:00 Z
+date: 2022-08-25 08:25:00 +07:00
 permalink: "/"
+layout: default
 ---
 
 Hello.
