@@ -1,5 +1,6 @@
 ---
 title: Ideal1st's Idealistic Idea-List
+description: by Jumaidil Awal
 timezone: Asia/Jakarta
 collections:
   posts:
@@ -21,6 +22,6 @@ defaults:
   values:
     layout: page
 permalink: pretty
-remote_theme: pages-themes/cayman@v0.2.0
+theme: cayman
 plugins:
 - jekyll-remote-theme
