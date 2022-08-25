@@ -1,2 +1,2 @@
-# ideal1st.github.io
+# idea-list
 My Personal Website
