@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Hello, World.
 date: 2022-08-25 08:25:00 +07:00
 permalink: "/"
 layout: default
