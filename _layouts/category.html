@@ -31,10 +31,7 @@
       <h1>Category: <span class="label-category">{{ page.slug }}</span></h1>
       {{ content }}
       {% assign posts = site.categories[page.slug] %}
-      {% for post in posts %}
-          {% include post.html %}
-      {% endfor %}
-
+      
       <footer class="site-footer">
         {% if site.github.is_project_page %}
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
