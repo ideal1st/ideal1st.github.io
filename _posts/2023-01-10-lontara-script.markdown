@@ -33,15 +33,15 @@ k - g - x - f
 
 ### ᨄ  ᨅ  ᨆ  ᨇ
 
-p  b  m  M
+p - b - m - M
 
-## pa ba ma mpa
+*pa ba ma mpa*
 
-**ᨈ  ᨉ  ᨊ  ᨋ**
+### ᨈ  ᨉ  ᨊ  ᨋ
 
-t  d  n  N
+t - d - n - N
 
-## ta da na nra
+*ta da na nra*
 
 **ᨌ  ᨍ  ᨎ  ᨏ**
 
