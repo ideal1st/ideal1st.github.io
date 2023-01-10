@@ -7,3 +7,4 @@ slug: buginese
 layout: category
 ---
 
+test
