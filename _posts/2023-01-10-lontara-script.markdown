@@ -17,21 +17,21 @@ Lontara script is the traditional script of various Sulawesi nations, eg. Bugine
 
 ## How to Read
 
-**1st line: lontara**
+### 1st line: lontara
 
 2nd line: US keyboard projection of Windows Buginese characters
 
-3rd line: pronunciation
+*3rd line: pronunciation*
 
 ## Consonants
 
 ### ᨀ  ᨁ  ᨂ   ᨃ
 
-k . g . x . f
+k - g - x - f
 
 *ka ga nga ngka*
 
-**ᨄ  ᨅ  ᨆ  ᨇ**
+### ᨄ  ᨅ  ᨆ  ᨇ
 
 p  b  m  M
 
