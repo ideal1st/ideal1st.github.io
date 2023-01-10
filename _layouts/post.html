@@ -29,8 +29,8 @@
 
     <main id="content" class="main-content" role="main">
       <blockquote>posted on <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time>
-        under {{#foreach categories}}<span class="post-category-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/category/{{slug}}">{{name}}</a></span>{{/foreach}}
-        discussing {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{#elseif @last}}.{{/elseif}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}
+        under {% for category in page.categories %}{{ category }}, {% endfor %}
+        discussing {% for tag in page.tags %}{{ tag }}, {% endfor %} among others.
       </blockquote>
       
       {{ content }}
