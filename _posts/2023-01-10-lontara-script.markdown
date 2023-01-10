@@ -63,7 +63,8 @@ s - a - h
 
 ## Vowels
 
-### ᨔᨗ - ᨔᨘ - ᨔᨙ - ᨔᨚ - ᨔᨛ** (with ᨔ /sa/ as the placeholder occupying the consonant position)
+### ᨔᨗ - ᨔᨘ - ᨔᨙ - ᨔᨚ - ᨔᨛ
+> (with ᨔ /sa/ as the placeholder occupying the consonant position)
 
 i - u - e - o - q
 
