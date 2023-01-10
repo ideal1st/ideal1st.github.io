@@ -32,8 +32,9 @@
       {{ content }}
       {% assign posts = site.posts | where: 'category', page.slug %}
       {% for post in posts %}
-      <h3><a href="{{ post.permalink }}"{{ post.title }}</a></h3>
-      {{ post.content }}
+      <h2><a href="{{ permalink }}"{{ title }}</a></h3>
+      {{ content }}
+      
       {% endfor %}
       <footer class="site-footer">
         {% if site.github.is_project_page %}
