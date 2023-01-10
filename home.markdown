@@ -1,5 +1,5 @@
 ---
-title: Ohayou, Sekai.
+title: Curriculum Vitae
 date: 2022-08-25 08:25:00 +07:00
 permalink: "/"
 layout: default
