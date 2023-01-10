@@ -1,5 +1,5 @@
 ---
-title: Jumaidil Awal's Profile
+title: "{{page.author.name}}'s Profile"
 timezone: Asia/Jakarta
 collections:
   posts:
@@ -20,8 +20,13 @@ defaults:
     type: pages
   values:
     layout: page
-description: Jumaidil Awal's Profile
+description: |-
+  {{page.author.name}}'s Profile
+  <img src="{{page.author.photo}}" />
 permalink: pretty
 plugins:
 - jekyll-remote-theme
 remote_theme: pages-themes/cayman@v0.2.0
+author:
+  name: Jumaidil Awal
+  photo: "/uploads/best-profile-photo-ever.png"
