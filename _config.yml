@@ -30,6 +30,8 @@ defaults:
   values:
     layout: post
     permalink: "/posts/:title/"
+    tag:
+    category:
 - scope:
     path: ''
     type: pages
