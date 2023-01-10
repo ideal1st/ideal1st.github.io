@@ -27,7 +27,7 @@ Lontara script is the traditional script of various Sulawesi nations, eg. Bugine
 
 ### ᨀ  ᨁ  ᨂ   ᨃ
 
-k  g  x   f
+k . g . x . f
 
 *ka ga nga ngka*
 
