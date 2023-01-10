@@ -5,7 +5,7 @@ collections:
   blog_categories:
     title: Categories
     output: true
-    permalink: category
+    permalink: "/category"
   portfolios:
     title: Portfolios
     output: true
