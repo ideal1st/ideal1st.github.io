@@ -21,8 +21,8 @@ defaults:
   values:
     layout: page
 description: |-
-  {{page.author.name}}'s Profile
-  ![yours truly elegantly sniffing a sakura flower]({{page.author.photo}})
+  Jumaidil Awal's Profile
+  ![yours truly elegantly sniffing a twig of sakura flowers](/uploads/best-profile-photo-ever.png)
 permalink: pretty
 plugins:
 - jekyll-remote-theme
