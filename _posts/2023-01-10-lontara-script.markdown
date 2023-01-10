@@ -37,34 +37,34 @@ p - b - m - M
 
 *pa - ba - ma - mpa*
 
-### ᨈ  ᨉ  ᨊ  ᨋ
+### ᨈ - ᨉ - ᨊ - ᨋ
 
 t - d - n - N
 
 *ta - da - na - nra*
 
-### ᨌ  ᨍ  ᨎ  ᨏ
+### ᨌ - ᨍ - ᨎ - ᨏ
 
 c - j - z - w
 
 *ca - ja - nya - nca*
 
-### ᨐ ᨑ  ᨒ ᨓ
+### ᨐ - ᨑ - ᨒ - ᨓ
 
 y - r - l - v
 
 *ya - ra - la - wa*
 
-### ᨔ  ᨕ ᨖ
+### ᨔ - ᨕ - ᨖ
 
-s  a h
+s - a - h
 
-## sa a ha
+*sa - a - ha*
 
 ## Vowels
 
-**ᨔᨗ ᨔᨘ ᨔᨙ ᨔᨚ  ᨔᨛ** (with ᨔ /sa/ as the placeholder occupying the consonant position)
+### ᨔᨗ - ᨔᨘ - ᨔᨙ - ᨔᨚ - ᨔᨛ** (with ᨔ /sa/ as the placeholder occupying the consonant position)
 
-i u e o  q
+i - u - e - o - q
 
-i u e o  strong schwa sound
+*i - u - e - o - strong schwa sound*
