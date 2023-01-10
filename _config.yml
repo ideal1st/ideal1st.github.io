@@ -14,7 +14,6 @@ collections:
   blog_tags:
     title: Tags
     output: true
-    permalink: "/tag"
   uploads:
     title: Uploads
     output: true
