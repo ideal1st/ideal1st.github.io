@@ -5,8 +5,8 @@ collections:
   categories:
     title: Categories
     output: true
-  pages:
-    title: Pages
+  portfolios:
+    title: Portfolios
     output: true
   posts:
     title: Posts
@@ -18,6 +18,12 @@ collections:
     title: Uploads
     output: true
 defaults:
+- scope:
+    path: ''
+    type: portfolios
+  values:
+    layout: portfolio
+    permalink: "/porto/:title"
 - scope:
     path: ''
     type: posts
