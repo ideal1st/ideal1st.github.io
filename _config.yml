@@ -2,7 +2,7 @@
 title: Jumaidil Awal
 timezone: Asia/Jakarta
 collections:
-  categories:
+  blog_categories:
     title: Categories
     output: true
   portfolios:
@@ -11,7 +11,7 @@ collections:
   posts:
     title: Posts
     output: true
-  tags:
+  blog_tags:
     title: Tags
     output: true
   uploads:
@@ -39,17 +39,17 @@ defaults:
     layout: default
 - scope:
     path: ''
-    type: tags
+    type: blog_tags
   values:
     slug: 
-    layout: default
+    layout: tag
     permalink: "/tag/:slug/"
 - scope:
     path: ''
-    type: categories
+    type: blog_categories
   values:
     slug: 
-    layout: default
+    layout: category
     permalink: "/category/:slug/"
 description: Jumaidil Awal
 permalink: pretty
