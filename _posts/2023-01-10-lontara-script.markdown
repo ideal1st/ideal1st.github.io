@@ -6,7 +6,7 @@ categories:
 tags:
 - lontara
 - script
-layout: default
+layout: post
 ---
 
 # Intro
