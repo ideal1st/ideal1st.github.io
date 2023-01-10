@@ -20,7 +20,7 @@ defaults:
     type: pages
   values:
     layout: page
-description: "{{page.author.name}}'s Profile"
+description: Jumaidil Awal's Profile
 permalink: pretty
 plugins:
 - jekyll-remote-theme
