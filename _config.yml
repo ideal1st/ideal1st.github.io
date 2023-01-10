@@ -27,11 +27,7 @@ plugins:
 - jekyll-favicon
 remote_theme: pages-themes/cayman@v0.2.0
 favicon:
-  source:
-    name: best-profile-picture-ever.png
-    dir: uploads/
+  image: "/uploads/best-profile-photo-small.png"
 author:
   name: Jumaidil Awal
   photo: "/uploads/best-profile-photo-ever.png"
-favicon:
-  image: "/uploads/best-profile-photo-small.png"
