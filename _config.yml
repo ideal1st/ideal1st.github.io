@@ -22,7 +22,7 @@ defaults:
     layout: page
 description: |-
   Jumaidil Awal's Profile
-  ![yours truly elegantly sniffing a twig of sakura flowers](/uploads/best-profile-photo-ever.png)
+  ![yours truly elegantly sniffing a twig of sakura flowers](/uploads/best-profile-photo-ever.png){width=32 height=32}
 permalink: pretty
 plugins:
 - jekyll-remote-theme
