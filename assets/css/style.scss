@@ -13,6 +13,15 @@
     margin-right: auto;
     margin-left: auto;
 }
-.category {
+.label-category {
+    text-transform: capitalize;
+}
+.label-category a {
+    background-color: #f0f;
+}
+.label-tag {
     font-variant: small-caps;
+}
+.label-tag a {
+    background-color: #0ff;
 }
