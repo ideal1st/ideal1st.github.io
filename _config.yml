@@ -5,6 +5,7 @@ collections:
   posts:
     title: Posts
     output: true
+    template: default.html
   uploads:
     title: Uploads
     output: true
