@@ -2,7 +2,7 @@
 title: Lontara Script
 date: 2023-01-10 19:23:00 +07:00
 categories:
-- Buginese
+- buginese
 tags:
 - lontara
 - script
