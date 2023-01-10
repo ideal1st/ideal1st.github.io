@@ -1,5 +1,5 @@
 ---
-title: "{{page.author.name}}'s Profile"
+title: Jumaidil Awal's Profile
 timezone: Asia/Jakarta
 collections:
   posts:
@@ -26,6 +26,7 @@ description: |-
 permalink: pretty
 plugins:
 - jekyll-remote-theme
+- jekyll-favicon
 remote_theme: pages-themes/cayman@v0.2.0
 author:
   name: Jumaidil Awal
