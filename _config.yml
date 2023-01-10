@@ -1,5 +1,5 @@
 ---
-title: Jumaidil Awal's Profile
+title: Jumaidil Awal
 timezone: Asia/Jakarta
 collections:
   posts:
@@ -20,7 +20,7 @@ defaults:
     type: pages
   values:
     layout: page
-description: Jumaidil Awal's Profile
+description: Jumaidil Awal
 permalink: pretty
 plugins:
 - jekyll-remote-theme
