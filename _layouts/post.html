@@ -29,7 +29,7 @@
 
     <main id="content" class="main-content" role="main">
       <blockquote>posted on <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time>
-        under {% for category in page.categories %}<a href="{{ site.baseurl }}/category/{{ category }}">{{ category }}</a>, {% endfor %}
+        under {% for category in page.categories %}<a href="{{ site.baseurl }}/category/{{ category }}"><span class="category">{{ category }}</span></a>, {% endfor %}
         discussing {% for tag in page.tags %}<a href="{{ site.baseurl }}/tag/{{ tag }}">{{ tag }}</a>, {% endfor %} and whatnot.
       </blockquote>
       
