@@ -28,9 +28,9 @@
     </header>
 
     <main id="content" class="main-content" role="main">
-      <h1>Category: <span class="label-category">{{ category }}</span></h1>
+      <h1>Category: <span class="label-category">{{ page.slug }}</span></h1>
       {{ content }}
-      {% assign posts = site.categories[category] %}
+      {% assign posts = site.categories[page.slug] %}
       {% for post in posts %}
           {% include post.html %}
       {% endfor %}
