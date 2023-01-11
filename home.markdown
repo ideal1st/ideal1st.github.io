@@ -70,3 +70,12 @@ Welcome to the Internet home of **Jumaidil Awal**.
 * Studi Komputasi Berbasis DFT terhadap Fenomena Quantum Tunneling dalam Isomerisasi Metilhidroksikarbena, *Jurnal Kimia Mulawarman* (2016)
 
 * A DFT-Based Computational Study on Hydrogen Tunneling Phenomenon in the Isomerization of Methylhydroxycarbene, *Proceeding of International Symposium on Computational Sciences* (2012)
+
+## Qualification
+
+* English (proficient level): EFSET 82 (2020), TOEFL ITP 643 (2020)
+* Undergraduate Degree in Pure Chemistry (2012)
+* Republic of Indonesia's Ministry of Finance (Kemenkeu) Education Fund Trust (LPDP) Indonesian Educators' Scholarship (2020)
+* Japan's Ministry of Education, Culture, Sports, Science, and Technology (MEXT) Teacher Training Scholarship (2017)
+* American Chemical Society (ACS) Building Opportunity Out of Science and Technology (BOOST) Workshop Scholarship (2013)
+* Undergraduate Degree in Pure Chemistry with a focus on Computational Chemistry (2012)
