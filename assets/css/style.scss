@@ -28,14 +28,14 @@
     padding: 0 3px;
 }
 .social {
-    display: flex;
     height: 100px;
     width: 100%;
     background-color: #00d4bc;
     background-image: linear-gradient(120deg, #007777, #00d4bc);
-    justify-content: space-between; /* could also try with space-around */
+    justify-content: space-around; /* could also try with space-between */
 }
 ul.social-icons {
+    display: flex;
     list-style: none;
     margin: 0;
     padding: 0;  
