@@ -72,7 +72,6 @@ Welcome to the Internet home of **Jumaidil Awal**.
 ## Qualification
 
 * English (proficient level): EFSET 82 (2020), TOEFL ITP 643 (2020)
-* Undergraduate Degree in Pure Chemistry (2012)
 * Republic of Indonesia's Ministry of Finance (Kemenkeu) Education Fund Trust (LPDP) Indonesian Educators' Scholarship (2020)
 * Japan's Ministry of Education, Culture, Sports, Science, and Technology (MEXT) Teacher Training Scholarship (2017)
 * American Chemical Society (ACS) Building Opportunity Out of Science and Technology (BOOST) Workshop Scholarship (2013)
