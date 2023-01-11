@@ -27,9 +27,9 @@ Welcome to the Internet home of **Jumaidil Awal**.
 
 ## Education
 
-* LPDP-Funded Master's Degree in Chemistry Teaching, Chemistry Department, Faculty of Mathematics and Natural Sciences, Bandung Institute of Technology, Bandung, Indonesia (2021-ongoing)
+* *LPDP-Funded* Master's Degree in Chemistry Teaching, Chemistry Department, Faculty of Mathematics and Natural Sciences, Bandung Institute of Technology, Bandung, Indonesia (2021-ongoing)
 
-* MEXT-Funded Teacher Training Program (non-degree) under Prof. Masakazu KITA, Science Education Department, Graduate School of Education, Okayama University, Okayama, Japan (2017-2019)
+* *MEXT-Funded* Teacher Training Program (non-degree) under Prof. Masakazu KITA, Science Education Department, Graduate School of Education, Okayama University, Okayama, Japan (2017-2019)
 
 * Undergraduate Degree, Chemistry Department, Faculty of Mathematics and Natural Sciences, Mulawarman University, Samarinda, Indonesia (2005-2012)
 
