@@ -30,10 +30,10 @@
     <main id="content" class="main-content" role="main">
       <h1>Category: <span class="label-category">{{ page.slug }}</span></h1>
       {{ content }}
-      {% assign posts = site.posts | where: 'page.category', page.slug %}
+      {% assign posts = site.posts | where: 'post.category', page.slug %}
       {% for post in posts %}
-      <h2><a href="{{ page.permalink }}"{{ page.title }}</a></h3>
-      {{ page.content }}
+      <h2><a href="{{ post.url }}"{{ post.title }}</a></h3>
+      {{ post.content }}
       
       {% endfor %}
       <footer class="site-footer">
