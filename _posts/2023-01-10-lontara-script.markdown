@@ -6,6 +6,10 @@ categories:
 tags:
 - lontara
 - script
+excerpt: Lontara script is the traditional script of various Sulawesi nations, eg.
+  Buginese and Makassarese. Orthographically speaking, Lontara falls into the abugida
+  type of scripts. It works basically like Indian Devanagari and Javanese Hanacaraka
+  among others.
 layout: post
 ---
 
