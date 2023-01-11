@@ -2,7 +2,7 @@
 title: Curriculum Vitae
 date: 2022-08-25 08:25:00 +07:00
 permalink: "/"
-layout: default
+layout: page
 ---
 
 ![yours truly elegantly sniffing a twig of sakura flowers](/uploads/best-profile-photo-small.png)
