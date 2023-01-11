@@ -28,12 +28,14 @@
     padding: 0 3px;
 }
 .bottom {
-    height: 100px;
+    height: 180px;
     width: 100%;
     background-color: #00d4bc;
     background-image: linear-gradient(120deg, #007777, #00d4bc);
+    padding: -20px 0;
 }
 .social {
+    height: 75%;
     display: flex;
     align-items: center;
     justify-content: space-around; /* could also try with space-between */
@@ -53,10 +55,12 @@ li.social-icon-items a {
 		color: #fff;
     }
 }
-.copyright {
+.copyright ul {
+    height: 25%;
     display: block;
     margin: auto;
     text-align: center;
+    list-style: none;
     font-size: 8px;
     color: #fff;
 }
