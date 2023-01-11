@@ -35,7 +35,7 @@ defaults:
     path: ''
     type: pages
   values:
-    layout: default
+    layout: page
 - scope:
     path: ''
     type: blog_tags
