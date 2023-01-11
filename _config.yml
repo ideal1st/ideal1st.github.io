@@ -29,9 +29,8 @@ defaults:
     type: posts
   values:
     layout: post
-    permalink: "/posts/:title/"
-    tag: 
-    category: 
+    permalink: "/posts/:title/" 
+    excerpt:
 - scope:
     path: ''
     type: pages
