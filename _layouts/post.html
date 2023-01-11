@@ -19,7 +19,7 @@
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.baseurl != site.url %}
-        <h3><a href="{{ site.url }}"><img src="{{ site.favicon.source }}" /></a></h5>
+        <h3><a href="{{ site.url }}"><img src="{{ site.favicon.source }}" /></a></h3>
       {% else %}
       {% endif %}
        {% if site.github.is_project_page %}
