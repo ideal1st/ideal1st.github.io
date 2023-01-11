@@ -5,8 +5,6 @@ permalink: "/"
 layout: page
 ---
 
-![yours truly elegantly sniffing a twig of sakura flowers](/uploads/best-profile-photo-small.png)
-
 Hello.
 السلام عليكم.
 こんにちは。
