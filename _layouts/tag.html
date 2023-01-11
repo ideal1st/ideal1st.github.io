@@ -13,6 +13,7 @@
     {% include head-custom.html %}
   </head>
   <body>
+  <div class="wrapper">
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
@@ -30,7 +31,6 @@
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
       {% endif %}
     </header>
-
     <main id="content" class="main-content" role="main">
       <blockquote>Here are all posts with this tag. Click on the title of each post to read more.</blockquote>
       {{ content }}
@@ -48,5 +48,6 @@
       </footer> -->
     </main>
       {% include socials.html %}
-  </body>
+    </div>
+    </body>
 </html>
