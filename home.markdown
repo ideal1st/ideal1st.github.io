@@ -21,7 +21,7 @@ Welcome to the Internet home of **Jumaidil Awal**.
 
 * Muslim
 
-* Buginese
+* [Buginese](https://ideal1st.github.io/category/buginese)
 
 * Indonesian
 
