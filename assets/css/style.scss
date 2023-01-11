@@ -35,12 +35,12 @@
     background-image: linear-gradient(120deg, #007777, #00d4bc);
     justify-content: space-between; /* could also try with space-around */
 }
-.social-icons {
+ul.social-icons {
     list-style: none;
     margin: 0;
     padding: 0;  
 }
-.social-icon-items a {
+li.social-icon-items a {
     display: block;
     font-size: 1.4em;
     margin: 0 5px;
