@@ -28,7 +28,7 @@
     </header>
 
     <main id="content" class="main-content" role="main">
-      <p>Here are all posts in this category. Click on the title of each post to read more.<p>
+      <blockquote>Here are all posts in this category. Click on the title of each post to read more.</blockquote>
       {{ content }}
       {% assign posts = site.categories[page.slug] %}
       {% for post in posts %}
