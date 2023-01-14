@@ -68,6 +68,7 @@ s - a - h
 ## Vowels
 
 ### ᨔᨗ - ᨔᨘ - ᨔᨙ - ᨔᨚ - ᨔᨛ
+
 > (with ᨔ /sa/ as the placeholder occupying the consonant position)
 
 i - u - e - o - q
@@ -76,8 +77,8 @@ i - u - e - o - q
 
 ## Keyboard Layout
 
-![US keyboard layout for Buginese language on Windows 11](/uploads/us-keyboard-layout-for-buginese.png)
+![US keyboard layout for Buginese language on Windows 11](/uploads/us-keyboard-layout-for-buginese.png "Fig. 1")
 
-![US keyboard layout with SHIFT for Buginese language on Windows 11](/uploads/us-keyboard-layout-on-shift-for-buginese.png)
+![US keyboard layout with SHIFT for Buginese language on Windows 11](/uploads/us-keyboard-layout-on-shift-for-buginese.png "Fig. 2")
 
 Activating the Buginese language feature of Windows 11 is pretty straightforward. Just go to **Settings > Time & language > Language & region** and add Buginese as one of your **preferred languages**.
