@@ -76,3 +76,11 @@ Welcome to the Internet home of **Jumaidil Awal**.
 * Japan's Ministry of Education, Culture, Sports, Science, and Technology (MEXT) Teacher Training Scholarship (2017)
 * American Chemical Society (ACS) Building Opportunity Out of Science and Technology (BOOST) Workshop Scholarship (2013)
 * Undergraduate Degree in Pure Chemistry with a focus on Computational Chemistry (2012)
+
+## Preoccupation
+
+* Al-Quran
+* Kalam
+* Science
+* Language
+* Visual arts
