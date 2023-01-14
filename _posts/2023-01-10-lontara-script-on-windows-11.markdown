@@ -1,5 +1,5 @@
 ---
-title: Lontara Script
+title: Lontara Script on Windows 11
 date: 2023-01-10 19:23:00 +07:00
 categories:
 - buginese
