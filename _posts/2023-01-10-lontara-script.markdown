@@ -73,3 +73,11 @@ s - a - h
 i - u - e - o - q
 
 *i - u - e - o - strong schwa sound*
+
+## Keyboard Layout
+
+![US keyboard layout for Buginese language on Windows 11](/uploads/us-keyboard-layout-for-buginese.png)
+
+![US keyboard layout with SHIFT for Buginese language on Windows 11](/uploads/us-keyboard-layout-on-shift-for-buginese.png)
+
+Activating the Buginese language feature of Windows 11 is pretty straightforward. Just go to **Settings > Time & language > Language & region** and add Buginese as one of your **preferred languages**.
