@@ -77,10 +77,10 @@ i - u - e - o - q
 
 ## Keyboard Layout
 
-![US keyboard layout for Buginese language on Windows 11](/api/v2/sites/6306cf683eceaf47e22feace/source/_uploads/us-keyboard-layout-for-buginese.png?download)
+![US keyboard layout for Buginese language on Windows 11](uploads/us-keyboard-layout-for-buginese.png?download)
 *Fig. 1. US keyboard layout for Buginese language on Windows 11.*
 
-![US keyboard layout with SHIFT for Buginese language on Windows 11](/api/v2/sites/6306cf683eceaf47e22feace/source/_uploads/us-keyboard-layout-on-shift-for-buginese.png?download)
+![US keyboard layout with SHIFT for Buginese language on Windows 11](uploads/us-keyboard-layout-on-shift-for-buginese.png?download)
 *Fig. 2. US keyboard layout with SHIFT for Buginese language on Windows 11.*
 
 Activating the Buginese language feature of Windows 11 is pretty straightforward. Just go to **Settings > Time & language > Language & region** and add Buginese as one of your **preferred languages**.
