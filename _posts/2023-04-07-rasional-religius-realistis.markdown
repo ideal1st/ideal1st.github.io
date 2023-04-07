@@ -2,7 +2,7 @@
 title: Rasional. Religius. Realistis.
 date: 2023-04-07 12:38:00 +07:00
 categories:
-- bunga-bangsa-islamic-high-school
+- bunga-bangsa-islamic-school
 tags:
 - presentation
 - vision
