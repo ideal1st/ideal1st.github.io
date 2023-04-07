@@ -41,15 +41,15 @@ Welcome to the Internet home of **Jumaidil Awal**.
 
 ## Profession
 
-* Multi-Subject Teacher: *Bunga Bangsa Islamic High School* (2013-2022)
+* Multi-Subject Teacher: *[Bunga Bangsa Islamic High School](https://ideal1st.github.io/category/bunga-bangsa-islamic-school/)* (2013-2022)
 > Mathematics, Physics, Chemistry, Quranic Literacy, English Club, English Debate, Nihongo Club, Coding Club, ICT Olympiad Prep, and Competitive Chess Prep, intermittently.
 
-* Head of TEMPE Division: *Bunga Bangsa Islamic High School* (2020-2021)
+* Head of TEMPE Division: *[Bunga Bangsa Islamic High School](https://ideal1st.github.io/category/bunga-bangsa-islamic-school/)* (2020-2021)
 > TEMPE stands for Teknologi Edukasi dan Manajemen Pembelajaran Elektronik, which roughly translates to Educational Technology and E-Learning Management.
 
-* Exam Officer for Cambridge Assessment International Exams: *Bunga Bangsa Islamic Schools* (ID135) (2019-2021)
+* Exam Officer for Cambridge Assessment International Exams: *[Bunga Bangsa Islamic Schools](https://ideal1st.github.io/category/bunga-bangsa-islamic-school/)* (ID135) (2019-2021)
 
-* Google Workspace Administrator: *Bunga Bangsa Islamic High School* (2015-2021)
+* Google Workspace Administrator: *[Bunga Bangsa Islamic High School](https://ideal1st.github.io/category/bunga-bangsa-islamic-school/)* (2015-2021)
 
 * Science and English Teacher: *SMK Madina* (2008-2010)
 
