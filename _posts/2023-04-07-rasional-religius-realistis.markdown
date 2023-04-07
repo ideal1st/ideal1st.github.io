@@ -5,7 +5,9 @@ categories:
 - bunga bangsa islamic high school
 tags:
 - presentation
-excerpt: Visi & Misi Calon Kepala Sekolah SMAIBB Tahun 2020
+excerpt: Visi dan Misi Calon Kepala SMAIBB Tahun 2020
 ---
+
+# Visi dan Misi Calon Kepala SMAIBB Tahun 2020
 
 <iframe src="https://drive.google.com/file/d/1JkGhT_6XFBRvUZUptUL_dmm0QFs7gnip/preview" width="640" height="480" allow="autoplay"></iframe>
