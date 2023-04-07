@@ -71,6 +71,7 @@ Welcome to the Internet home of **Jumaidil Awal**.
 
 ## Qualification
 
+* Master's Degree in Chemistry teaching with a focus on Computational Chemistry (2023)
 * English (proficient level): EFSET 82 (2020), TOEFL ITP 643 (2020)
 * Republic of Indonesia's Ministry of Finance (Kemenkeu) Education Fund Trust (LPDP) Indonesian Educators' Scholarship (2020)
 * Japan's Ministry of Education, Culture, Sports, Science, and Technology (MEXT) Teacher Training Scholarship (2017)
