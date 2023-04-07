@@ -5,6 +5,8 @@ categories:
 - bunga bangsa islamic high school
 tags:
 - presentation
+embed: <iframe src="https://drive.google.com/file/d/1JkGhT_6XFBRvUZUptUL_dmm0QFs7gnip/preview"
+  width="640" height="480" allow="autoplay"></iframe>
 ---
 
 <iframe src="https://drive.google.com/file/d/1JkGhT_6XFBRvUZUptUL_dmm0QFs7gnip/preview" width="640" height="480" allow="autoplay"></iframe>
