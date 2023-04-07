@@ -5,6 +5,7 @@ categories:
 - bunga bangsa islamic high school
 tags:
 - presentation
+- vision
 excerpt: Visi dan Misi Calon Kepala SMAIBB Tahun 2020
 ---
 
