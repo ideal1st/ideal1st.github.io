@@ -1,0 +1,14 @@
+---
+title: STREAMER
+date: 2023-04-07 19:49:00 +07:00
+categories:
+- bunga-bangsa-islamic-school
+tags:
+- presentation
+- vision
+excerpt: Science, Technology, Research, Entrepreneurship, Arts, Mathematics, Environment,
+  and Religion
+---
+
+# Science, Technology, Research, Entrepreneurship, Arts, Mathematics, Environment, and Religion
+<iframe src="https://drive.google.com/file/d/1oNl8oPGIEoLTsTZhYYEE1bW6exTAK1wq/preview" width="100%" height="480" allow="autoplay"></iframe>
