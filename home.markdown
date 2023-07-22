@@ -5,8 +5,8 @@ permalink: "/"
 layout: page
 ---
 
-Hello.
 السلام عليكم.
+Hello.
 こんにちは。
 
 Welcome to the Internet home of **Jumaidil Awal**.
