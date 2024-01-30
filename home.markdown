@@ -13,9 +13,9 @@ Welcome to the Internet home of **Jumaidil Awal**.
 
 ## Bio
 
-* Jumaidil Awal, S.Si.
+* Jumaidil Awal, M.Si.P.
 
-* 34 years old
+* 35 years old
 
 * Indonesian
 
@@ -25,7 +25,7 @@ Welcome to the Internet home of **Jumaidil Awal**.
 
 ## Education
 
-* **LPDP-Funded** Master's Degree in Chemistry Teaching, Chemistry Department, Faculty of Mathematics and Natural Sciences, Bandung Institute of Technology, Bandung, Indonesia (2021-ongoing)
+* **LPDP-Funded** Master's Degree in Chemistry Teaching, Chemistry Department, Faculty of Mathematics and Natural Sciences, Bandung Institute of Technology, Bandung, Indonesia (2021-2023)
 
 * **MEXT-Funded** Teacher Training Program (non-degree) under Prof. Masakazu KITA, Science Education Department, Graduate School of Education, Okayama University, Okayama, Japan (2017-2019)
 
@@ -40,6 +40,12 @@ Welcome to the Internet home of **Jumaidil Awal**.
 * TK Aisyiyah Bustanul Athfal 2, Samarinda, Indonesia (1993-1994)
 
 ## Profession
+
+* Principal: *SMPIT Imam Syafi'i, Pesantren Kampung Santri* (2023-now)
+> ...all the while teaching Mathematics and Science.
+
+* Freelance English Tutor: *Language Center, Telkom University* (2023)
+> Teaching EPrT (English Proficiency Test) prep course as well as preparing questions and transcripts for EPrT's Listening Section.
 
 * Multi-Subject Teacher: *[Bunga Bangsa Islamic High School](https://ideal1st.github.io/category/bunga-bangsa-islamic-school/)* (2013-2022)
 > Mathematics, Physics, Chemistry, Quranic Literacy, English Club, English Debate, Nihongo Club, Coding Club, ICT Olympiad Prep, and Competitive Chess Prep, intermittently.
@@ -57,6 +63,8 @@ Welcome to the Internet home of **Jumaidil Awal**.
 
 ## Research & Publication
 
+* Isyarat Ilmiah dalam Surah AL-ṬALĀQ Ayat 12: Analisis Kimia Unsur, *Al-Bayan: Jurnal Ilmu Al-Qur'an dan Tafsir* (2022)
+
 * Pengembangan Video Peraga Reaksi Organik Turunan Benzena dari Hasil Optimisasi Struktur Intermediat dengan Metode Kimia Komputasi, *Seminar Nasional Kimia & Pembelajarannya* (2022)
 
 * High School Chemistry Lessons on Inclusion Compound of Cyclodextrins, *Proceeding of 2018年支部科学教育研究発表会* (2018)
@@ -72,8 +80,8 @@ Welcome to the Internet home of **Jumaidil Awal**.
 ## Qualification
 
 * Master's Degree in Chemistry teaching with a focus on Computational Chemistry (2023)
-* English (proficient level): EFSET 82 (2020), TOEFL ITP 643 (2020)
-* Republic of Indonesia's Ministry of Finance (Kemenkeu) Education Fund Trust (LPDP) Indonesian Educators' Scholarship (2020)
+* English (proficient level): EFSET 82 (2020), TOEFL ITP 657 (2023)
+* Republic of Indonesia's Ministry of Finance (Kemenkeu) Education Endowment Fund Trust (LPDP) Indonesian Educators' Scholarship (2020)
 * Japan's Ministry of Education, Culture, Sports, Science, and Technology (MEXT) Teacher Training Scholarship (2017)
 * American Chemical Society (ACS) Building Opportunity Out of Science and Technology (BOOST) Workshop Scholarship (2013)
 * Undergraduate Degree in Pure Chemistry with a focus on Computational Chemistry (2012)
