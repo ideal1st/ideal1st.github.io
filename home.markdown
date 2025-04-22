@@ -15,7 +15,7 @@ Welcome to the Internet home of **Jumaidil Awal**.
 
 * Jumaidil Awal, M.Si.P.
 
-* 35 years old
+* 36 years old
 
 * Indonesian
 
@@ -63,19 +63,23 @@ Welcome to the Internet home of **Jumaidil Awal**.
 
 ## Research & Publication
 
-* Isyarat Ilmiah dalam Surah AL-ṬALĀQ Ayat 12: Analisis Kimia Unsur, *Al-Bayan: Jurnal Ilmu Al-Qur'an dan Tafsir* (2022)
+* [Visualisasi Tahapan Sintesis Sulfanilamida pada Anime Dr. STONE Musim 1 Episode 15 dengan Metode DFT Dan Pendekatan ASM](https://digilib.itb.ac.id/gdl/view/71550/jumaidil?rows=1&per_page=2&fid=2), *Postgraduate Thesis (Tesis S2) for Pengajaran Kimia FMIPA ITB* (ITB, Bandung, Indonesia, 2023)
 
-* Pengembangan Video Peraga Reaksi Organik Turunan Benzena dari Hasil Optimisasi Struktur Intermediat dengan Metode Kimia Komputasi, *Seminar Nasional Kimia & Pembelajarannya* (2022)
+* [Isyarat Ilmiah dalam Surah AL-ṬALĀQ Ayat 12: Analisis Kimia Unsur](https://journal.uinsgd.ac.id/index.php/Al-Bayan/article/view/20666/8703), *Al-Bayan: Jurnal Ilmu Al-Qur'an dan Tafsir* (UIN Sunan Gunung Djati, Bandung, Indonesia, 2022)
 
-* High School Chemistry Lessons on Inclusion Compound of Cyclodextrins, *Proceeding of 2018年支部科学教育研究発表会* (2018)
+* [Video Demonstrations Of A Benzene Derivative Reaction From Its Optimized Intermediate Structure](https://journal2.um.ac.id/index.php/j-pek/article/view/31318), *Jurnal Pembelajaran Kimia (J-PEK)* (Universitas Negeri Malang, Malang, Indonesia, 2022)
 
-* Pengembangan Permainan Kartu Buatan Sendiri sebagai Media Pembelajaran Aljabar dan Pengaruhnya terhadap Kompetensi Siswa dalam Persamaan Linear, *Seminar Nasional Pendidikan Matematika Ahmad Dahlan* (2018)
+* [High School Chemistry Lessons on Inclusion Compound of Cyclodextrins](https://kaken.nii.ac.jp/ja/file/KAKENHI-PROJECT-16K00965/16K00965seika.pdf), *Oral presentation at 2018年日本化学会中国四国支部大会* (Ehime Daigaku, Matsuyama, Japan, 2018)
 
-* Development of Teaching Materials on River Water Qualities and Colors, *Proceeding of The 68th Annual SJST Conference* (2018)
+* [河川水中の洗剤量に関する調査](http://chem.sci.ehime-u.ac.jp/~ehime2018/files/2018program.pdf), *Co-author for an oral presentation at [2018年日本化学会中国四国支部大会](http://chem.sci.ehime-u.ac.jp/~ehime2018/)* (Ehime Daigaku, Matsuyama, Japan, 2018)
 
-* Studi Komputasi Berbasis DFT terhadap Fenomena Quantum Tunneling dalam Isomerisasi Metilhidroksikarbena, *Jurnal Kimia Mulawarman* (2016)
+* Pengembangan Permainan Kartu Buatan Sendiri sebagai Media Pembelajaran Aljabar dan Pengaruhnya terhadap Kompetensi Siswa dalam Persamaan Linear, *Seminar Nasional Pendidikan Matematika Ahmad Dahlan* (Universitas Ahmad Dahlan, Yogyakarta, Indonesia, 2018)
 
-* A DFT-Based Computational Study on Hydrogen Tunneling Phenomenon in the Isomerization of Methylhydroxycarbene, *Proceeding of International Symposium on Computational Sciences* (2012)
+* Development of Teaching Materials on River Water Qualities and Colors, *Poster presentation at The 68th Annual SJST Conference* (Iwate Daigaku, Morioka, Japan, 2018)
+
+* [Studi Komputasi Berbasis DFT terhadap Fenomena Quantum Tunneling dalam Isomerisasi Metilhidroksikarbena](https://jurnal.kimia.fmipa.unmul.ac.id/index.php/JKM/article/view/56), *Jurnal Kimia Mulawarman* (Universitas Mulawarman, Samarinda, Indonesia, 2016)
+
+* [A DFT-Based Computational Study on Hydrogen Tunneling Phenomenon in the Isomerization of Methylhydroxycarbene](https://www.academia.edu/4768828/A_DFT_BASED_COMPUTATIONAL_STUDY_ON_HYDROGEN_TUNNELING_PHENOMENON_IN_THE_ISOMERIZATION_OF_METHYLHYDROXYCARBENE), *International Symposium on Computational Sciences (ISCS) Selected Papers* (Universitas Gadjah Mada, Yogyakarta, Indonesia, 2012)
 
 ## Qualification
 

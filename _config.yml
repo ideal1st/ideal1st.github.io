@@ -59,12 +59,10 @@ remote_theme: pages-themes/cayman@v0.2.0
 author:
   name: Jumaidil Awal
   photo: "/uploads/best-profile-photo-ever.png"
-  twitter: pak_aidil
-  instagram: pak.aidil
-  facebook: jumaidil.awal
+  instagram: ust.aidil
   github: ideal1st
 favicon:
   source: "/uploads/best-profile-photo-small.png"
 copyright:
-  notice: Jumaidil Awal © 2023
+  notice: Jumaidil Awal © 2025
   disclaimer: 'Theme modified from: Cayman by @parkr'
