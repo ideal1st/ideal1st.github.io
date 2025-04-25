@@ -41,7 +41,12 @@ Welcome to the Internet home of **Jumaidil Awal**.
 
 ## Profession
 
-* Principal: *SMPIT Imam Syafi'i, Pesantren Kampung Santri* (2023-now)
+* Senior Web Developer: *Media Center Kampung Santri, Pesantren Kampung Santri* (2024-now)
+> Re-building the Foundation's website from scratch. <br/>
+> Being responsible for the website's regular update and maintenance. <br/>
+> Working with third-party vendors for the domain, email, shortlink, and advertising services. 
+
+* Principal: *SMPIT Imam Syafi'i, [Pesantren Kampung Santri](https://kampungsantri.or.id/#asatidzah)* (2023-now)
 > ...all the while teaching Mathematics and Science.
 
 * Freelance English Tutor: *Language Center, Telkom University* (2023)
