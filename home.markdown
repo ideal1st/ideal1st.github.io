@@ -19,15 +19,15 @@ Welcome to the Internet home of **Jumaidil Awal**.
 
 * Indonesian
 
-* [Buginese](https://ideal1st.github.io/category/buginese)
+* [Buginese](/category/buginese)
 
 * Muslim
 
 ## Education
 
-* **LPDP-Funded** Master's Degree in Chemistry Teaching, Chemistry Department, Faculty of Mathematics and Natural Sciences, Bandung Institute of Technology, Bandung, Indonesia (2021-2023)
+* **LPDP-Funded** [Master's Degree]({{ site.baseurl }}/lpdp-teacher-scholarship-era/) in Chemistry Teaching, Chemistry Department, Faculty of Mathematics and Natural Sciences, Bandung Institute of Technology, Bandung, Indonesia (2021-2023)
 
-* **MEXT-Funded** Teacher Training Program (non-degree) under Prof. Masakazu KITA, Science Education Department, Graduate School of Education, Okayama University, Okayama, Japan (2017-2019)
+* **MEXT-Funded** [Teacher Training]({{ site.baseurl }}/mext-sponsored-teacher-training-era/) Program (non-degree) under Prof. Masakazu KITA, Science Education Department, Graduate School of Education, Okayama University, Okayama, Japan (2017-2019)
 
 * Undergraduate Degree, Chemistry Department, Faculty of Mathematics and Natural Sciences, Mulawarman University, Samarinda, Indonesia (2005-2012)
 
@@ -52,15 +52,15 @@ Welcome to the Internet home of **Jumaidil Awal**.
 * Freelance English Tutor: *Language Center, Telkom University* (2023)
 > Teaching EPrT (English Proficiency Test) prep course as well as preparing questions and transcripts for EPrT's Listening Section.
 
-* Multi-Subject Teacher: *[Bunga Bangsa Islamic High School](https://ideal1st.github.io/category/bunga-bangsa-islamic-school/)* (2013-2022)
+* Multi-Subject Teacher: *[Bunga Bangsa Islamic High School](/category/bunga-bangsa-islamic-school/)* (2013-2022)
 > Mathematics, Physics, Chemistry, Quranic Literacy, English Club, English Debate, Nihongo Club, Coding Club, ICT Olympiad Prep, and Competitive Chess Prep, intermittently.
 
-* Head of TEMPE Division: *[Bunga Bangsa Islamic High School](https://ideal1st.github.io/category/bunga-bangsa-islamic-school/)* (2020-2021)
+* Head of TEMPE Division: *[Bunga Bangsa Islamic High School](/category/bunga-bangsa-islamic-school/)* (2020-2021)
 > TEMPE stands for Teknologi Edukasi dan Manajemen Pembelajaran Elektronik, which roughly translates to Educational Technology and E-Learning Management.
 
-* Exam Officer for Cambridge Assessment International Exams: *[Bunga Bangsa Islamic Schools](https://ideal1st.github.io/category/bunga-bangsa-islamic-school/)* (ID135) (2019-2021)
+* Exam Officer for Cambridge Assessment International Exams: *[Bunga Bangsa Islamic Schools](/category/bunga-bangsa-islamic-school/)* (ID135) (2019-2021)
 
-* Google Workspace Administrator: *[Bunga Bangsa Islamic High School](https://ideal1st.github.io/category/bunga-bangsa-islamic-school/)* (2015-2021)
+* Google Workspace Administrator: *[Bunga Bangsa Islamic High School](/category/bunga-bangsa-islamic-school/)* (2015-2021)
 
 * Science and English Teacher: *SMK Madina* (2008-2010)
 

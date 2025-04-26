@@ -1,0 +1,9 @@
+---
+title: "Oops! You got me."
+date: 2024-09-21 02:22:00 +07:00
+permalink: /404.html
+---
+
+Welcome to this page.
+
+Please go back [home]({{ site.url }}).
