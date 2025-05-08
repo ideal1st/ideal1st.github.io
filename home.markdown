@@ -46,7 +46,7 @@ Welcome to the Internet home of **Jumaidil Awal**.
 > Being responsible for the website's regular update and maintenance. <br/>
 > Working with third-party vendors for the domain, email, shortlink, and advertising services. 
 
-* Principal: *SMPIT Imam Syafi'i, [Pesantren Kampung Santri](https://kampungsantri.or.id/#asatidzah)* (2023-now)
+* Principal: *[SMPIT Imam Syafi'i](https://kampungsantri.or.id/#asatidzah), [Pesantren Kampung Santri](/category/pesantren-kampung-santri)* (2023-now)
 > ...all the while teaching Mathematics and Science.
 
 * Freelance English Tutor: *Language Center, Telkom University* (2023)
