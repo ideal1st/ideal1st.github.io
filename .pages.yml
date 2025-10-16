@@ -38,6 +38,10 @@ pages:
       label: Page Title
       type: text
       is_title: true
+    - name: body
+      label: Content
+      type: markdown
+      help: The main body content of the page.
     - name: layout
       label: Layout
       type: hidden
@@ -46,11 +50,7 @@ pages:
       label: Permalink URL
       type: text
       help: The ending part of the page URL (e.g., /about/).
-    - name: body
-      label: Content
-      type: markdown
-      help: The main body content of the page.
-      
+
 # ----------------------------------------
 # 3. BLOG POSTS (Collection: _posts)
 # ----------------------------------------
