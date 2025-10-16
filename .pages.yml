@@ -1,0 +1,167 @@
+# The global configuration file for Pages CMS
+
+# ----------------------------------------
+# 1. SITE SETTINGS (From _config.yml)
+# ----------------------------------------
+settings:
+  name: Site Settings
+  path: _config.yml
+  fields:
+    - name: title
+      label: Site Title
+      type: text
+      help: The main title of your website.
+    - name: description
+      label: Tagline/Description
+      type: textarea
+      help: A short phrase describing your site.
+    - name: email
+      label: Contact Email
+      type: email
+      help: The primary contact email address.
+    - name: baseurl
+      label: Base URL (Important for GH Pages)
+      type: text
+      help: Should usually be empty "" or your repository name (e.g., /ideal1st.github.io).
+      readonly: true
+
+# ----------------------------------------
+# 2. STATIC PAGES (e.g., about.md, contact.md)
+# ----------------------------------------
+pages:
+  name: Static Pages
+  path: 'pages'
+  glob: '*.md'
+  folder: true
+  fields:
+    - name: title
+      label: Page Title
+      type: text
+      is_title: true
+    - name: layout
+      label: Layout
+      type: hidden
+      default: page # Assuming 'page' layout for static content
+    - name: permalink
+      label: Permalink URL
+      type: text
+      help: The ending part of the page URL (e.g., /about/).
+    - name: body
+      label: Content
+      type: markdown
+      help: The main body content of the page.
+      
+# ----------------------------------------
+# 3. BLOG POSTS (Collection: _posts)
+# ----------------------------------------
+posts:
+  name: Blog Posts
+  path: _posts
+  glob: '**/*.md'
+  url: '{{ site.baseurl }}{{ page.url }}'
+  output: true
+  is_collection: true
+  fields:
+    - name: title
+      label: Post Title
+      type: text
+      is_title: true
+    - name: date
+      label: Publication Date
+      type: datetime
+      default: now
+    - name: author
+      label: Author Name
+      type: text
+    - name: categories
+      label: Categories
+      type: array
+      help: List of categories for the post (e.g., webdev, tutorial).
+    - name: excerpt
+      label: Summary Excerpt
+      type: textarea
+      help: A short summary shown on the main blog listing page.
+    - name: body
+      label: Content
+      type: markdown
+      help: The full body content of the blog post.
+
+# ----------------------------------------
+# 4. PORTFOLIOS (Custom Collection)
+# ----------------------------------------
+portfolios:
+  name: Portfolios
+  path: _portfolios
+  glob: '**/*.md'
+  url: '{{ site.baseurl }}{{ page.url }}'
+  output: true
+  is_collection: true
+  fields:
+    - name: title
+      label: Portfolio Title
+      type: text
+      is_title: true
+    - name: layout
+      label: Layout
+      type: hidden
+      default: portfolio # Assuming 'portfolio' layout for these items
+    - name: client
+      label: Client/Project
+      type: text
+    - name: date_completed
+      label: Date Completed
+      type: date
+    - name: icon
+      label: Icon Class (Font Awesome)
+      type: text
+      help: e.g., 'globe', 'code', 'pen' - used for service.icon in your Jekyll code.
+    - name: excerpt
+      label: Short Description/Excerpt
+      type: textarea
+    - name: url
+      label: External Project URL (if applicable)
+      type: url
+    - name: body
+      label: Project Details
+      type: markdown
+      help: Detailed description and images for the project page.
+
+# ----------------------------------------
+# 5. BLOG TAGS (Custom Collection)
+# ----------------------------------------
+blog_tags:
+  name: Blog Tags
+  path: _blog_tags
+  glob: '*.md'
+  output: true
+  is_collection: true
+  fields:
+    - name: title
+      label: Tag Name
+      type: text
+      is_title: true
+      help: The name of the tag (e.g., 'jekyll', 'css', 'design').
+    - name: body
+      label: Tag Description
+      type: markdown
+      help: Optional description for the tag's listing page.
+
+# ----------------------------------------
+# 6. BLOG CATEGORIES (Custom Collection)
+# ----------------------------------------
+blog_categories:
+  name: Blog Categories
+  path: _blog_categories
+  glob: '*.md'
+  output: true
+  is_collection: true
+  fields:
+    - name: title
+      label: Category Name
+      type: text
+      is_title: true
+      help: The name of the category (e.g., 'tutorials', 'news', 'projects').
+    - name: body
+      label: Category Description
+      type: markdown
+      help: Optional description for the category's listing page.
