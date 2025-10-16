@@ -1,167 +1,196 @@
-# The global configuration file for Pages CMS
+# The global configuration file for Pages CMS for ideal1st.github.io
+# Designed for personal portfolio management.
 
 # ----------------------------------------
-# 1. SITE SETTINGS (From _config.yml)
+# 1. CONFIG FILES (For global _config.yml)
 # ----------------------------------------
-settings:
-  name: Site Settings
-  path: _config.yml
-  fields:
-    - name: title
-      label: Site Title
-      type: text
-      help: The main title of your website.
-    - name: description
-      label: Tagline/Description
-      type: textarea
-      help: A short phrase describing your site.
-    - name: email
-      label: Contact Email
-      type: email
-      help: The primary contact email address.
-    - name: baseurl
-      label: Base URL (Important for GH Pages)
-      type: text
-      help: Should usually be empty "" or your repository name (e.g., /ideal1st.github.io).
-      readonly: true
+config_files:
+  - name: Global Settings
+    path: _config.yml
+    fields:
+      - name: title
+        label: Site Title (Your Name)
+        type: text
+        help: The main title for your portfolio, usually your name.
+      - name: email
+        label: Contact Email
+        type: email
+        help: The primary email address for contact forms.
+      - name: description
+        label: Site Description
+        type: textarea
+        help: A short description for search engines and social sharing.
+      - name: baseurl
+        label: Base URL
+        type: text
+        help: Should usually be empty "" or your repository name.
+        readonly: true
 
 # ----------------------------------------
-# 2. STATIC PAGES (e.g., about.md, contact.md)
+# 2. STATIC PAGES (e.g., Home page content)
 # ----------------------------------------
 pages:
-  name: Static Pages
-  path: 'pages'
-  glob: '*.md'
-  folder: true
-  fields:
-    - name: title
-      label: Page Title
-      type: text
-      is_title: true
-    - name: body
-      label: Content
-      type: markdown
-      help: The main body content of the page.
-    - name: layout
-      label: Layout
-      type: hidden
-      default: page # Assuming 'page' layout for static content
-    - name: permalink
-      label: Permalink URL
-      type: text
-      help: The ending part of the page URL (e.g., /about/).
+  - name: Homepage Content
+    path: index.md
+    glob: 'index.{md,html}'
+    folder: false
+    fields:
+      - name: title
+        label: Section Title
+        type: text
+        is_title: true
+        help: The main headline for the homepage banner/section.
+      - name: subtitle
+        label: Tagline/Subheadline
+        type: text
+      - name: body
+        label: Intro/About Me
+        type: markdown
+        help: The main 'About Me' or introductory content of the homepage.
+      - name: layout
+        label: Layout
+        type: hidden
+        default: home
 
 # ----------------------------------------
-# 3. BLOG POSTS (Collection: _posts)
+# 3. COLLECTIONS (For posts, projects, tags, and categories)
 # ----------------------------------------
-posts:
-  name: Blog Posts
-  path: _posts
-  glob: '**/*.md'
-  url: '{{ site.baseurl }}{{ page.url }}'
-  output: true
-  is_collection: true
-  fields:
-    - name: title
-      label: Post Title
-      type: text
-      is_title: true
-    - name: date
-      label: Publication Date
-      type: datetime
-      default: now
-    - name: author
-      label: Author Name
-      type: text
-    - name: categories
-      label: Categories
-      type: array
-      help: List of categories for the post (e.g., webdev, tutorial).
-    - name: excerpt
-      label: Summary Excerpt
-      type: textarea
-      help: A short summary shown on the main blog listing page.
-    - name: body
-      label: Content
-      type: markdown
-      help: The full body content of the blog post.
+collections:
+
+  # 3a. PROJECTS / PORTFOLIO ITEMS
+  projects:
+    name: Projects & Portfolio
+    path: _projects
+    glob: '*.md'
+    url: '{{ site.baseurl }}/projects/{{ page.slug }}/'
+    output: true
+    is_collection: true
+    fields:
+      - name: title
+        label: Project Title
+        type: text
+        is_title: true
+      - name: image
+        label: Main Project Image
+        type: image
+        help: The thumbnail or hero image for the project page.
+      - name: technologies
+        label: Technologies Used
+        type: array
+        help: List of frameworks, languages, and tools used.
+      - name: live_link
+        label: Live Demo Link
+        type: url
+      - name: github_link
+        label: GitHub Repository
+        type: url
+      - name: body
+        label: Project Description
+        type: markdown
+        help: Detailed explanation and narrative about the project.
+
+  # 3b. BLOG POSTS
+  posts:
+    name: Blog Posts
+    path: _posts
+    glob: '**/*.md'
+    url: '{{ site.baseurl }}/blog/{{ page.slug }}/'
+    output: true
+    is_collection: true
+    fields:
+      - name: title
+        label: Post Title
+        type: text
+        is_title: true
+      - name: date
+        label: Publication Date
+        type: datetime
+        default: now
+      - name: tags
+        label: Tags
+        type: array
+        help: Keywords to categorize the post (e.g., JavaScript, CSS).
+      - name: body
+        label: Content
+        type: markdown
+        help: The full blog post content.
+
+  # 3c. BLOG TAGS (Flat Data Collection)
+  blog_tags:
+    name: Blog Tags
+    path: _blog_tags
+    glob: '*.md'
+    output: false
+    is_collection: true
+    fields:
+      - name: title
+        label: Tag Name
+        type: text
+        is_title: true
+        help: The name of the tag (e.g., 'React', 'Tailwind').
+
+  # 3d. BLOG CATEGORIES (Flat Data Collection)
+  blog_categories:
+    name: Blog Categories
+    path: _blog_categories
+    glob: '*.md'
+    output: false
+    is_collection: true
+    fields:
+      - name: title
+        label: Category Name
+        type: text
+        is_title: true
+        help: The name of the category (e.g., 'Tutorials', 'Opinion').
 
 # ----------------------------------------
-# 4. PORTFOLIOS (Custom Collection)
+# 4. MEDIA (For image and asset management)
 # ----------------------------------------
-portfolios:
-  name: Portfolios
-  path: _portfolios
-  glob: '**/*.md'
-  url: '{{ site.baseurl }}{{ page.url }}'
-  output: true
-  is_collection: true
-  fields:
-    - name: title
-      label: Portfolio Title
-      type: text
-      is_title: true
-    - name: layout
-      label: Layout
-      type: hidden
-      default: portfolio # Assuming 'portfolio' layout for these items
-    - name: client
-      label: Client/Project
-      type: text
-    - name: date_completed
-      label: Date Completed
-      type: date
-    - name: icon
-      label: Icon Class (Font Awesome)
-      type: text
-      help: e.g., 'globe', 'code', 'pen' - used for service.icon in your Jekyll code.
-    - name: excerpt
-      label: Short Description/Excerpt
-      type: textarea
-    - name: url
-      label: External Project URL (if applicable)
-      type: url
-    - name: body
-      label: Project Details
-      type: markdown
-      help: Detailed description and images for the project page.
+media:
+  name: Media Library
+  path: assets/images
+  glob: '**/*.{jpg,jpeg,png,gif,webp}'
+  help: Upload and manage images for projects, posts, and your profile.
 
 # ----------------------------------------
-# 5. BLOG TAGS (Custom Collection)
+# 5. CONTENT (For structured data files - e.g., _data/skills.yml)
 # ----------------------------------------
-blog_tags:
-  name: Blog Tags
-  path: _blog_tags
-  glob: '*.md'
-  output: true
-  is_collection: true
-  fields:
-    - name: title
-      label: Tag Name
-      type: text
-      is_title: true
-      help: The name of the tag (e.g., 'jekyll', 'css', 'design').
-    - name: body
-      label: Tag Description
-      type: markdown
-      help: Optional description for the tag's listing page.
+content:
+  - name: Skills & Technologies
+    path: _data/skills.yml
+    fields:
+      - name: technical_skills
+        label: Technical Skills List
+        type: array
+        fields:
+          - name: skill_name
+            label: Skill Name
+            type: text
+          - name: level
+            label: Proficiency Level (1-100)
+            type: number
+            help: Use a number between 1 and 100 for display purposes.
+          - name: category
+            label: Category
+            type: select
+            options: [Frontend, Backend, DevOps, Design]
 
 # ----------------------------------------
-# 6. BLOG CATEGORIES (Custom Collection)
+# 6. COMPONENTS (For reusable content blocks in Markdown)
 # ----------------------------------------
-blog_categories:
-  name: Blog Categories
-  path: _blog_categories
-  glob: '*.md'
-  output: true
-  is_collection: true
-  fields:
-    - name: title
-      label: Category Name
-      type: text
-      is_title: true
-      help: The name of the category (e.g., 'tutorials', 'news', 'projects').
-    - name: body
-      label: Category Description
-      type: markdown
-      help: Optional description for the category's listing page.
+components:
+  - name: Code Highlight Box
+    id: code_highlight
+    help: A box to highlight important code snippets or calls-to-action within blog posts.
+    fields:
+      - name: headline
+        label: Headline
+        type: text
+      - name: content
+        label: Content/Snippet
+        type: textarea
+        help: Markdown or code to be highlighted.
+      - name: color
+        label: Highlight Color
+        type: select
+        options: [blue, green, yellow]
