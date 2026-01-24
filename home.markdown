@@ -5,8 +5,8 @@ permalink: "/"
 layout: page
 ---
 
-السلام عليكم.
-Hello.
+السلام عليكم. </br>
+Hello. </br>
 こんにちは。
 
 Welcome to the Internet home of **Jumaidil Awal**.
@@ -15,7 +15,7 @@ Welcome to the Internet home of **Jumaidil Awal**.
 
 * Jumaidil Awal, M.Si.P.
 
-* 36 years old
+* 37 years old
 
 * Indonesian
 
@@ -41,13 +41,18 @@ Welcome to the Internet home of **Jumaidil Awal**.
 
 ## Profession
 
+* Head of Curriculum Division, *Pesantren Kampung Santri* (2025-now)
+> Coordinating the completion of lesson plans across school units under Pesantren Kampung Santri. </br>
+> Teaching and training the teachers of Pesantren Kampung Santri in terms of lesson development, classroom management, student engagement, and result assessment. </br>
+> Cooperating with school operators on a monthly basis for the issuance of Pesantren students' monthly progress reports.
+
 * Senior Web Developer: *Media Center Kampung Santri, Pesantren Kampung Santri* (2024-now)
 > Re-building the Foundation's website from scratch. <br/>
 > Being responsible for the website's regular update and maintenance. <br/>
 > Working with third-party vendors for the domain, email, shortlink, and advertising services. 
 
 * Principal: *[SMPIT Imam Syafi'i](https://kampungsantri.or.id/#asatidzah), [Pesantren Kampung Santri](/category/pesantren-kampung-santri)* (2023-now)
-> ...all the while teaching Mathematics and Science.
+> ...all the while teaching Mathematics, Science, English, and Indonesian.
 
 * Freelance English Tutor: *Language Center, Telkom University* (2023)
 > Teaching EPrT (English Proficiency Test) prep course as well as preparing questions and transcripts for EPrT's Listening Section.
@@ -58,7 +63,14 @@ Welcome to the Internet home of **Jumaidil Awal**.
 * Head of TEMPE Division: *[Bunga Bangsa Islamic High School](/category/bunga-bangsa-islamic-school/)* (2020-2021)
 > TEMPE stands for Teknologi Edukasi dan Manajemen Pembelajaran Elektronik, which roughly translates to Educational Technology and E-Learning Management.
 
+* Studio Director: *BengkelBranding* (2017-2020) then rebranded to *[Ninjuku Studio](https://ninjuku.studio/)* (2020-now)
+> Running a web development & brand design studio as a side job. </br>
+> Dealing with practically the whole process of securing and completing design & development projects of the studio.
+
 * Exam Officer for Cambridge Assessment International Exams: *[Bunga Bangsa Islamic Schools](/category/bunga-bangsa-islamic-school/)* (ID135) (2019-2021)
+
+* Student Research Assistant: *Kurashiki Amaki High School* (2018-2019)
+> Assisting Japanese high school students conducting their research.
 
 * Google Workspace Administrator: *[Bunga Bangsa Islamic High School](/category/bunga-bangsa-islamic-school/)* (2015-2021)
 
@@ -89,11 +101,11 @@ Welcome to the Internet home of **Jumaidil Awal**.
 ## Qualification
 
 * Master's Degree in Chemistry teaching with a focus on Computational Chemistry (2023)
-* English (proficient level): EFSET 82 (2020), TOEFL ITP 657 (2023)
+* English (proficient level): EFSET 82 (2020), TOEFL ITP 657 (2024)
 * Republic of Indonesia's Ministry of Finance (Kemenkeu) Education Endowment Fund Trust (LPDP) Indonesian Educators' Scholarship (2020)
 * Japan's Ministry of Education, Culture, Sports, Science, and Technology (MEXT) Teacher Training Scholarship (2017)
 * American Chemical Society (ACS) Building Opportunity Out of Science and Technology (BOOST) Workshop Scholarship (2013)
-* Undergraduate Degree in Pure Chemistry with a focus on Computational Chemistry (2012)
+* Undergraduate Degree in Chemistry with a focus on Computational Chemistry (2012)
 
 ## Preoccupation
 
