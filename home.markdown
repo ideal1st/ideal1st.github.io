@@ -5,8 +5,8 @@ permalink: "/"
 layout: page
 ---
 
-السلام عليكم. </br>
-Hello. </br>
+السلام عليكم. <br/>
+Hello. <br/>
 こんにちは。
 
 Welcome to the Internet home of **Jumaidil Awal**.
@@ -42,8 +42,8 @@ Welcome to the Internet home of **Jumaidil Awal**.
 ## Profession
 
 * Head of Curriculum Division, *Pesantren Kampung Santri* (2025-now)
-> Coordinating the completion of lesson plans across school units under Pesantren Kampung Santri. </br>
-> Teaching and training the teachers of Pesantren Kampung Santri in terms of lesson development, classroom management, student engagement, and result assessment. </br>
+> Coordinating the completion of lesson plans across school units under Pesantren Kampung Santri. <br/>
+> Teaching and training the teachers of Pesantren Kampung Santri in terms of lesson development, classroom management, student engagement, and result assessment. <br/>
 > Cooperating with school operators on a monthly basis for the issuance of Pesantren students' monthly progress reports.
 
 * Senior Web Developer: *Media Center Kampung Santri, Pesantren Kampung Santri* (2024-now)
@@ -64,7 +64,7 @@ Welcome to the Internet home of **Jumaidil Awal**.
 > TEMPE stands for Teknologi Edukasi dan Manajemen Pembelajaran Elektronik, which roughly translates to Educational Technology and E-Learning Management.
 
 * Studio Director: *BengkelBranding* (2017-2020) then rebranded to *[Ninjuku Studio](https://ninjuku.studio/)* (2020-now)
-> Running a web development & brand design studio as a side job. </br>
+> Running a web development & brand design studio as a side job. <br/>
 > Dealing with practically the whole process of securing and completing design & development projects of the studio.
 
 * Exam Officer for Cambridge Assessment International Exams: *[Bunga Bangsa Islamic Schools](/category/bunga-bangsa-islamic-school/)* (ID135) (2019-2021)
